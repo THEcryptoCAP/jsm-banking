@@ -1,2 +1,2 @@
 # jsm-banking
-just a lil project on react and nextjs.
+A banking web app project on react and nextjs.
